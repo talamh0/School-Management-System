@@ -36,6 +36,15 @@ This project uses **MySQL** for database storage.
 3. Open the project in IntelliJ IDEA or Eclipse.  
 4. Run `Main.java`.  
 
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🏗️ Built With
+- [Java](https://www.java.com/) - Programming Language
+- [MySQL](https://www.mysql.com/) - Relational Database
+- [JDBC](https://docs.oracle.com/javase/tutorial/jdbc/) - Java Database Connectivity
+
 👩‍💻 Contributing
 Feel free to contribute by submitting pull requests! 💡
 
