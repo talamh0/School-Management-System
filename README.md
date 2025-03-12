@@ -1,4 +1,4 @@
-# 📚 School Management System
+#  School Management System
 
 A **Java-based** School Management System with a **Graphical User Interface (GUI)** using **Swing** and **MySQL** for database management.
 
