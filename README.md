@@ -10,10 +10,10 @@ A **Java-based** School Management System with a **Graphical User Interface (GUI
 
 ## 🖥️ Screenshots
 ### **🔹 Login Screen**
-![Login Screen](images/login_screen.jpeg)
+![Login Screen](images/login_screen.jpg)
 
 ### **🔹 Database Schema (ERD)**
-![Database Schema](images/database_schema.jpeg)
+![Database Schema](images/database_schema.jpg)
 
 ### **🔹 Admin Panel**
 ![Admin Panel](admin_panel.jpg)
