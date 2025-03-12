@@ -21,12 +21,6 @@ A **Java-based** School Management System with a **Graphical User Interface (GUI
 ## 🗄️ Database Schema
 This project uses **MySQL** for database storage.
 
-## 🛠️ Tech Stack
-- **Java** (Swing for GUI)
-- **MySQL** (Database)
-- **JDBC** (Database Connectivity)
-- **GitHub** (Version Control)
-
 ## 🎯 How to Run
 1. Clone the repository:
    ```bash
@@ -37,6 +31,10 @@ This project uses **MySQL** for database storage.
 4. Run `Main.java`.  
 
 ## 🛠️ Tech Stack
+- **Java** (Swing for GUI)
+- **MySQL** (Database)
+- **JDBC** (Database Connectivity)
+- **GitHub** (Version Control)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
