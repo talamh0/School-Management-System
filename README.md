@@ -16,7 +16,7 @@ A **Java-based** School Management System with a **Graphical User Interface (GUI
 ![Database Schema](images/database_schema.jpeg)
 
 ### **🔹 Admin Panel**
-![Admin Panel](images/admin_panel.jpeg)
+![Admin Panel](admin_panel.jpg)
 
 ## 🗄️ Database Schema
 This project uses **MySQL** for database storage.
