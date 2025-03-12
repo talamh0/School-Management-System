@@ -16,7 +16,7 @@ A **Java-based** School Management System with a **Graphical User Interface (GUI
 ![Database Schema](images/database_schema.jpg)
 
 ### **🔹 Admin Panel**
-![Admin Panel](admin_panel.jpg)
+![Admin Panel](images/admin_panel.jpg)
 
 ## 🗄️ Database Schema
 This project uses **MySQL** for database storage.
@@ -32,9 +32,9 @@ This project uses **MySQL** for database storage.
    ```bash
    git clone https://github.com/talamh0/School-Management-System.git
 
-Open in IntelliJ IDEA or Eclipse.
-Configure MySQL Database.
-Run Main.java.
+2. Configure MySQL Database.  
+3. Open the project in IntelliJ IDEA or Eclipse.  
+4. Run `Main.java`.  
 
 👩‍💻 Contributing
 Feel free to contribute by submitting pull requests! 💡
